@@ -24,7 +24,7 @@ I lead and deliver **Enterprise Security Assessments (ESA)**: I turn raw tenant 
 
 I also build the tooling behind the delivery. Internal automation agents I designed cut assessment delivery time by roughly **80%** and reduced onboarding time for new team members by about **25%**, which made the practice measurably more scalable and consistent.
 
-Based in São Paulo, Brazil. I work in Portuguese and English.
+Based in Brazil. I work in Portuguese and English.
 
 ---
 
