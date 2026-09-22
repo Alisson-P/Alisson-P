@@ -18,7 +18,7 @@ Cloud Security · Vulnerability Management · Enterprise Security Assessments
 
 ## About
 
-15+ years in technology, with the last years fully focused on cybersecurity. Today I work as **Senior Consultant and Tech Lead at Avanade**, supporting Microsoft S500 customers across North America in Cloud Security, Vulnerability Management and Security Assessments.
+15+ years of experience, with the last years fully focused on cybersecurity. Today I work as **Senior Consultant and Tech Lead at Avanade**, supporting Microsoft S500 customers across North America in Cloud Security, Vulnerability Management and Security Assessments.
 
 I lead and deliver **Enterprise Security Assessments (ESA)**: I turn raw tenant telemetry into executive and technical reporting, then drive remediation strategies grounded in Microsoft Defender for Cloud, Secure Score and recognized benchmarks (MCSB, CIS, NIST, ISO 27001).
 
@@ -89,12 +89,7 @@ Based in São Paulo, Brazil. I work in Portuguese and English.
 
 <div align="center">
 
-<img align="right" alt="animated panel" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/Alisson-P/Certificados/main/V%C3%ADdeo%20Painel%20Git/gifteste.gif">
-
-<a href="https://github.com/Alisson-P">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alisson-P&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-P&layout=compact&langs_count=7&theme=highcontrast" alt="Top languages"/>
-</a>
+<img alt="animated panel" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/Alisson-P/Certificados/main/V%C3%ADdeo%20Painel%20Git/gifteste.gif">
 
 </div>
 
