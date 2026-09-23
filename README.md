@@ -90,6 +90,10 @@ Based in Brazil. I work in Portuguese and English.
 
 | Project | What it is |
 | --- | --- |
+| [Vulnerability Management](https://github.com/Alisson-P/vulnerability-management) | End to end vulnerability management program built with open source tooling: internal scanning, external attack surface, threat intelligence enrichment and redundant validation |
+| [Vulnerability Management JEV](https://github.com/Alisson-P/vulnerability-management-jev) | The typed decision variant: same base, triage with calibrated confidence and a comparative benchmark against the base program |
+| [IOC and PUA Hunting](https://github.com/Alisson-P/ioc-pua-hunting) | Unified platform for indicators of compromise, potentially unwanted applications and automated threat hunting, built with open source tooling |
+| [IOC and PUA Hunting JEV](https://github.com/Alisson-P/ioc-pua-hunting-jev) | The typed decision variant: indicator triage decided in code, with an auditable trail |
 | [YSAT](https://github.com/Alisson-P/ysat) | An agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only on new evidence |
 | [YSAT-JEV](https://github.com/Alisson-P/ysat-jev) | The typed judgment variant: the verdict is composed in code from atomic typed questions, with an auditable trail and a state hash |
 | [Certification Portfolio](https://alisson-p.github.io/) | Interactive single page portfolio: instant search, filters by vendor and area, dark mode, shareable filtered links |
