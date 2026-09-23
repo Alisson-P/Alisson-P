@@ -43,6 +43,7 @@ Based in Brazil. I work in Portuguese and English.
 
 | Domain | Tools and practices |
 | --- | --- |
+| 🤖 AI Agents & Skills | Agent and skill design, orchestration, prompt engineering, typed and auditable decisions, Microsoft Copilot |
 | ☁️ Cloud Security & CSPM | Microsoft Defender for Cloud, Secure Score, Microsoft Cloud Security Benchmark, Azure Policy |
 | 🛡️ Threat Detection & Response | Microsoft Sentinel, Defender XDR, KQL, MITRE ATT&CK |
 | 🔍 Vulnerability Management | Qualys VMDR and CSAM, Tenable Nessus, Defender Vulnerability Management |
@@ -88,17 +89,37 @@ Based in Brazil. I work in Portuguese and English.
 
 ## Featured
 
-| Project | What it is |
-| --- | --- |
-| [Vulnerability Management](https://github.com/Alisson-P/vulnerability-management) | End to end vulnerability management program built with open source tooling: internal scanning, external attack surface, threat intelligence enrichment and redundant validation |
-| [Vulnerability Management JEV](https://github.com/Alisson-P/vulnerability-management-jev) | The typed decision variant: same base, triage with calibrated confidence and a comparative benchmark against the base program |
-| [IOC and PUA Hunting](https://github.com/Alisson-P/ioc-pua-hunting) | Unified platform for indicators of compromise, potentially unwanted applications and automated threat hunting, built with open source tooling |
-| [IOC and PUA Hunting JEV](https://github.com/Alisson-P/ioc-pua-hunting-jev) | The typed decision variant: indicator triage decided in code, with an auditable trail |
-| [YSAT](https://github.com/Alisson-P/ysat) | An agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only on new evidence |
-| [YSAT-JEV](https://github.com/Alisson-P/ysat-jev) | The typed judgment variant: the verdict is composed in code from atomic typed questions, with an auditable trail and a state hash |
-| [Certification Portfolio](https://alisson-p.github.io/) | Interactive single page portfolio: instant search, filters by vendor and area, dark mode, shareable filtered links |
-| [Certificados](https://github.com/Alisson-P/Certificados) | Source repository with every certificate, badge and course syllabus |
-| [GUIA-PENTEST](https://github.com/Alisson-P/GUIA-PENTEST) | Offensive security study guide and references |
+<table>
+<tr>
+<td width="50%" valign="top"><h3>🔍 <a href="https://github.com/Alisson-P/vulnerability-management">Vulnerability Management</a></h3><p>End to end vulnerability management built with open source tooling: internal scanning, external attack surface, threat intelligence enrichment and redundant validation.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
+<td width="50%" valign="top"><h3>🧪 <a href="https://github.com/Alisson-P/vulnerability-management-jev">Vulnerability Management JEV</a></h3><p>Typed decision variant: same base, triage with calibrated confidence and a comparative benchmark against the base program.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>🎯 <a href="https://github.com/Alisson-P/ioc-pua-hunting">IOC and PUA Hunting</a></h3><p>Unified platform for indicators of compromise, potentially unwanted applications and automated threat hunting, built with open source tooling.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/YARA-00599C?style=flat-square" alt="YARA"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
+<td width="50%" valign="top"><h3>🧪 <a href="https://github.com/Alisson-P/ioc-pua-hunting-jev">IOC and PUA Hunting JEV</a></h3><p>Typed decision variant: indicator triage decided in code, with an auditable trail and a blocking layer veto.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>🤖 <a href="https://github.com/Alisson-P/ysat">YSAT</a></h3><p>An AI agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only on new evidence.</p><p><img src="https://img.shields.io/badge/agent%20skill-8957e5?style=flat-square" alt="Agent skill"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
+<td width="50%" valign="top"><h3>⚖️ <a href="https://github.com/Alisson-P/ysat-jev">YSAT-JEV</a></h3><p>Typed judgment variant: the verdict is composed in code from atomic typed questions, with an auditable trail and a state hash.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>🎓 <a href="https://alisson-p.github.io/">Certification Portfolio</a></h3><p>Interactive single page portfolio: 140 certifications, instant search, filters by vendor and area, dark mode and shareable filtered links.</p><p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/live-0f6cbd?style=flat-square" alt="Live"></p></td>
+<td width="50%" valign="top"><h3>📜 <a href="https://github.com/Alisson-P/Certificados">Certificados</a></h3><p>Source repository behind the portfolio, with every certificate, badge and course syllabus under version control.</p><p><img src="https://img.shields.io/badge/140%20certifications-107C10?style=flat-square" alt="140 certifications"></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>📘 <a href="https://github.com/Alisson-P/GUIA-PENTEST">GUIA-PENTEST</a></h3><p>Offensive security study guide and references.</p><p><img src="https://img.shields.io/badge/guide-6e7681?style=flat-square" alt="Guide"></p></td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 ---
 
