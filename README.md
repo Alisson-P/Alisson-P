@@ -6,7 +6,7 @@
 
 **Cyber Security Engineer | Senior Cybersecurity Consultant | Tech Lead**
 
-Cloud Security · Vulnerability Management · Enterprise Security Assessments
+Vulnerability Management · Cloud Security · Security Automation
 
 <a href="https://www.linkedin.com/in/alisson-jp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://alisson-p.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Certification%20Portfolio-0f6cbd?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
@@ -18,11 +18,22 @@ Cloud Security · Vulnerability Management · Enterprise Security Assessments
 
 ## About
 
-15+ years of experience, with the last years fully focused on cybersecurity. Today I work as **Senior Consultant and Tech Lead at Avanade**, supporting Microsoft S500 customers across North America in Cloud Security, Vulnerability Management and Security Assessments.
+Vulnerability Management and Cloud Security leader with 15+ years of professional experience, delivering for large enterprises across North America, EMEA and LATAM in English speaking, multicultural teams.
 
-I lead and deliver **Enterprise Security Assessments (ESA)**: I turn raw tenant telemetry into executive and technical reporting, then drive remediation strategies grounded in Microsoft Defender for Cloud, Secure Score and recognized benchmarks (MCSB, CIS, NIST, ISO 27001).
+**What I do**
+
+- Run vulnerability management as a full cycle, not a scan report: intake, deduplication, risk based prioritization, owner assignment, remediation roadmap and verification
+- Assess cloud security posture at enterprise scale and turn findings into a plan, with severity, effort, affected resources and an owner for every item
+- Lead and mentor consultants and architects, raising delivery quality and shortening ramp up time for new team members
+- Build the automation behind all of it, which is how high assessment volume gets delivered consistently instead of one report at a time
+
+**How I work**
+
+I turn scan output into decisions someone can own. The pipelines I build ingest cloud posture and benchmark exports, then produce a prioritized remediation roadmap, an executive readout, dashboards and a client ready package, with every recommendation traced back to its evidence.
 
 I also build the tooling behind the delivery. Internal automation agents I designed cut assessment delivery time by roughly **80%** and reduced onboarding time for new team members by about **25%**, which made the practice measurably more scalable and consistent.
+
+My early career includes national level leadership in a regulated, audit driven environment, which still shapes how I report and document.
 
 Based in Brazil. I work in Portuguese and English.
 
@@ -69,7 +80,7 @@ Based in Brazil. I work in Portuguese and English.
 
 - 🚀 **~80% faster** security assessment delivery, through automation agents I designed and built
 - 📉 **~25% shorter** onboarding for new consultants, from standardized runbooks and documentation
-- 🌎 Delivering to **Microsoft S500 customers** across North America, remote from Brazil
+- 🌎 Delivering to **large enterprise customers** across North America, remote from Brazil
 - 🎓 Mentoring and enabling other consultants on assessment quality and delivery
 - 🗂️ **107 badges and 21 trophies** on Microsoft Learn, plus 76+ hours of tracked learning
 
