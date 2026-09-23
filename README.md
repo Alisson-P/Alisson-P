@@ -83,7 +83,7 @@ Based in Brazil. I work in Portuguese and English.
 - 📉 **~25% shorter** onboarding for new consultants, from standardized runbooks and documentation
 - 🌎 Delivering to **large enterprise customers** across North America, remote from Brazil
 - 🎓 Mentoring and enabling other consultants on assessment quality and delivery
-- 🗂️ **107 badges and 21 trophies** on Microsoft Learn, plus 76+ hours of tracked learning
+- 🗂️ **108 badges and 21 trophies** on Microsoft Learn, plus 77+ hours of tracked learning
 
 ---
 
@@ -105,10 +105,6 @@ Based in Brazil. I work in Portuguese and English.
 <tr>
 <td width="50%" valign="top"><h3>🎓 <a href="https://alisson-p.github.io/">Certification Portfolio</a></h3><p>Interactive single page portfolio: 140 certifications, instant search, filters by vendor and area, dark mode and shareable filtered links.</p><p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/live-0f6cbd?style=flat-square" alt="Live"></p></td>
 <td width="50%" valign="top"><h3>📜 <a href="https://github.com/Alisson-P/Certificados">Certificados</a></h3><p>Source repository behind the portfolio, with every certificate, badge and course syllabus under version control.</p><p><img src="https://img.shields.io/badge/140%20certifications-107C10?style=flat-square" alt="140 certifications"></p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3>📘 <a href="https://github.com/Alisson-P/GUIA-PENTEST">GUIA-PENTEST</a></h3><p>Offensive security study guide and references.</p><p><img src="https://img.shields.io/badge/guide-6e7681?style=flat-square" alt="Guide"></p></td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
