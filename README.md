@@ -89,7 +89,7 @@ Based in Brazil. I work in Portuguese and English.
 
 ## Featured
 
-Four of these are public previews: the design, the decisions and sample deliverables built with fictional data. The complete implementations live in private repositories. YSAT and YSAT-JEV are published in full, under MIT.
+Five of these are public previews: the design, the decisions and sample deliverables built with fictional data. The complete implementations live in private repositories. YSAT and YSAT-JEV are published in full, under MIT.
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ Four of these are public previews: the design, the decisions and sample delivera
 <td width="50%" valign="top"><h3>🧪 <a href="https://github.com/Alisson-P/vulnerability-management-jev">Vulnerability Management JEV</a></h3><p>Typed decision variant: triage composed in code from 11 atomic questions with calibrated confidence, plus a benchmark that states what it did not prove.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>🎯 <a href="https://github.com/Alisson-P/ioc-pua-hunting">IOC and PUA Hunting</a></h3><p>Indicator lifecycle with TTL and decay per type, unwanted software handled as versioned policy, and automatic retroactive hunting across a 30 day window.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td>
+<td width="50%" valign="top"><h3>🎯 <a href="https://github.com/Alisson-P/ioc-pua-hunting">IOC and PUA Hunting</a></h3><p>Indicator lifecycle with TTL and decay per type, unwanted software handled as versioned policy, and automatic retroactive hunting across a 30 day window.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td><td width="50%" valign="top"><h3>🧪 <a href="https://github.com/Alisson-P/ioc-pua-hunting-jev">IOC and PUA Hunting JEV</a></h3><p>Typed decision variant: indicator triage decided in code from closed typed questions with calibrated confidence, with a block layer veto and blind hunt tagging.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td></tr><tr>
 <td width="50%" valign="top"><h3>🛠️ <a href="https://github.com/Alisson-P/hardening-engine">Hardening Engine</a></h3><p>Turns reference guides into a baseline of its own: plain language names, severity decided by an explicit rule, validated remediation, and a read only checker that can answer that it could not check.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td>
 </tr>
 <tr>
