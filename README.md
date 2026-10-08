@@ -89,7 +89,7 @@ Based in Brazil. I work in Portuguese and English.
 
 ## Featured
 
-Five of these are public previews: the design, the decisions and sample deliverables built with fictional data. The complete implementations live in private repositories. YSAT and YSAT-JEV are published in full, under MIT.
+Six of these are public previews: the design, the decisions and sample deliverables built with fictional data. The complete implementations live in private repositories. YSAT and YSAT-JEV are published in full, under MIT.
 
 <table>
 <tr>
@@ -99,6 +99,7 @@ Five of these are public previews: the design, the decisions and sample delivera
 <tr>
 <td width="50%" valign="top"><h3>🎯 <a href="https://github.com/Alisson-P/ioc-pua-hunting">IOC and PUA Hunting</a></h3><p>Indicator lifecycle with TTL and decay per type, unwanted software handled as versioned policy, and automatic retroactive hunting across a 30 day window.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td><td width="50%" valign="top"><h3>🧪 <a href="https://github.com/Alisson-P/ioc-pua-hunting-jev">IOC and PUA Hunting JEV</a></h3><p>Typed decision variant: indicator triage decided in code from closed typed questions with calibrated confidence, with a block layer veto and blind hunt tagging.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td></tr><tr>
 <td width="50%" valign="top"><h3>🛠️ <a href="https://github.com/Alisson-P/hardening-engine">Hardening Engine</a></h3><p>Turns reference guides into a baseline of its own: plain language names, severity decided by an explicit rule, validated remediation, and a read only checker that can answer that it could not check.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td>
+<td width="50%" valign="top"><h3>🧪 <a href="https://github.com/Alisson-P/hardening-engine-jev">Hardening Engine JEV</a></h3><p>Typed decision variant: turns the compliance report into a remediation plan, ordered and routed in code from typed questions, behind seven locks. With no model, the plan equals the base.</p><p><img src="https://img.shields.io/badge/public%20preview-0f6cbd?style=flat-square" alt="Public preview"> <img src="https://img.shields.io/badge/CC%20BY--NC--ND%204.0-6e7681?style=flat-square" alt="CC BY-NC-ND 4.0"></p></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><h3>🤖 <a href="https://github.com/Alisson-P/ysat">YSAT</a></h3><p>An AI agent skill that disagrees with you, on purpose, with evidence. Risk first, pre mortem always, verdict changes only on new evidence.</p><p><img src="https://img.shields.io/badge/agent%20skill-8957e5?style=flat-square" alt="Agent skill"> <img src="https://img.shields.io/badge/MIT-6e7681?style=flat-square" alt="MIT"></p></td>
